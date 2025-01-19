@@ -3,7 +3,7 @@ class AppConstants
   static const String appName = "Flutter App";
   static const String defaultCityName = "lucknow";
   static const bool defaultIsCelsius = true; 
-  static const String weatherApiKey = "72108b0c34a60fb850db7a4d3fdcf66a";
+  static const String weatherApiKey = "API-KEY";
   static const String weatherApiUrl = "https://api.openweathermap.org/data/2.5";
   static const String cloudyImage = "assets/images/cloudy.jpg";
   static const String rainyImage = "assets/images/rainy.jpg";
